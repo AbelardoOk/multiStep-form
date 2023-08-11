@@ -28,6 +28,10 @@ const config: Config = {
           red: "hsl(354, 84%, 57%)",
         },
       },
+
+      backgroundImage: {
+        "sidebar-desktop": "url(/bg-sidebar-desktop.svg)",
+      },
     },
   },
   plugins: [],
